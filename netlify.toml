@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "http://20.41.122.194/:splat"   # change if your API runs on another port, e.g. http://20.41.122.194:8000/:splat
-  status = 200
-  force = true
